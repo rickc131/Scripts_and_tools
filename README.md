@@ -1,4 +1,4 @@
-# rick-study
+# rick’hackbar
 学习中
 本人学习过程中喜欢乱搞的一些东西，有copy别人的，有自己写的（暂时还没有自己写的）。
 债个 rick'shackbar 是我参照一个公众号的文章自己改的，
